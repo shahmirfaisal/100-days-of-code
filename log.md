@@ -4,7 +4,7 @@
 
 **Today's Progress**: Worked on a corona virus tracker app.
 
-**Thoughts:** I saw an Api for corona virus at github which motivated me to create web app for that.
+**Thoughts:** I saw an Api for corona virus at github which motivated me to create web app for that.I created it with React.js .
 
 **Link to work:** [Corona Virus Tracker](https://github.com/shahmirfaisal/corona-virus-tracker)
 
