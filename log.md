@@ -15,5 +15,14 @@
 
 **Thoughts:** I've learned front end and now I'm focusing on backend development with node.js. And It's really tricky for me to understand Node.js basics.
 
-**Link to work:** [Node.js Server](https://github.com/shahmirfaisal/node-server/blob/master/app.js)
+**Link to work:** [Node.js Server](https://github.com/shahmirfaisal/node-server)
+
+
+### Day 3: March 19, 2020.
+
+**Today's Progress**: I learned to parse the requests and what is buffers in node.js .
+
+**Thoughts:** It's too difficult for me to understand the concept of stream of data and buffers in node.js.
+
+**Link to work:** [Node.js Server](https://github.com/shahmirfaisal/node-server)
 
