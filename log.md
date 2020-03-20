@@ -26,3 +26,12 @@
 
 **Link to work:** [Node.js Server](https://github.com/shahmirfaisal/node-server)
 
+
+### Day 4: March 20, 2020.
+
+**Today's Progress**: I learned about module.exports and use nodemon for productivity.
+
+**Thoughts:** I'm getting better and better with node.js and the course is awesome.
+
+**Link to work:** [Node.js Server](https://github.com/shahmirfaisal/node-server)
+
