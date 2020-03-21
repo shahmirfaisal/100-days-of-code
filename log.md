@@ -35,3 +35,12 @@
 
 **Link to work:** [Node.js Server](https://github.com/shahmirfaisal/node-server)
 
+
+### Day 5: March 21, 2020.
+
+**Today's Progress**: I to debug node.js app and I also learned a little bit about express(middlewares).
+
+**Thoughts:** Working with express is really fun.
+
+**Link to work:** [Node.js Server](https://github.com/shahmirfaisal/express-server)
+
