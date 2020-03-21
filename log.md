@@ -42,5 +42,5 @@
 
 **Thoughts:** Working with express is really fun.
 
-**Link to work:** [Node.js Server](https://github.com/shahmirfaisal/express-server)
+**Link to work:** [Express.js Server](https://github.com/shahmirfaisal/express-server)
 
