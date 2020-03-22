@@ -44,3 +44,12 @@
 
 **Link to work:** [Express.js Server](https://github.com/shahmirfaisal/express-server)
 
+
+### Day 6: March 22, 2020.
+
+**Today's Progress**: I learned about routing in express.js and body-parsers.
+
+**Thoughts:** Working with express is really fun and easy.
+
+**Link to work:** [Express.js Server](https://github.com/shahmirfaisal/express-server)
+
