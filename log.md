@@ -53,3 +53,12 @@
 
 **Link to work:** [Express.js Server](https://github.com/shahmirfaisal/express-server)
 
+
+### Day 7: March 23, 2020.
+
+**Today's Progress**: I learned to serve html pages through express and path module. I also learned about css box-model. 
+
+**Thoughts:** Working with express is really fun and easy. I'm making progress rapidly.
+
+**Link to work:** [Express.js Server](https://github.com/shahmirfaisal/express-server)
+
