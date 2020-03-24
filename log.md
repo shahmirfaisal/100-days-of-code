@@ -62,3 +62,12 @@
 
 **Link to work:** [Express.js Server](https://github.com/shahmirfaisal/express-server)
 
+
+### Day 8: March 24, 2020.
+
+**Today's Progress**: I worked on job-listing project which was given to me by [Front End Mentor](https://frontendmentor.io) 
+
+**Thoughts:** After a long time, I finally use vanilla javascript. It was fun project.
+
+**Link to work:** [Job Listings Page](https://shahmirfaisal.github.io/job-listings/)
+
