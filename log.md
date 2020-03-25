@@ -71,3 +71,12 @@
 
 **Link to work:** [Job Listings Page](https://shahmirfaisal.github.io/job-listings/)
 
+
+### Day 9: March 25, 2020.
+
+**Today's Progress**: I learned to implement a simple drag & drop system with vanilla.js . 
+
+**Thoughts:** Drag & Drop is an intresting thing in web development. It makes the UI better.
+
+**Link to work:** [Drag & Drop](https://github.com/shahmirfaisal/drag-drop)
+
