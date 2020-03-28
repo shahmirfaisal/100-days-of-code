@@ -80,3 +80,21 @@
 
 **Link to work:** [Drag & Drop](https://github.com/shahmirfaisal/drag-drop)
 
+
+### Day 10: March 26, 2020.
+
+**Today's Progress**: I still work with drag & drop and make a little bit complex system. 
+
+**Thoughts:** Now I have a good grip on drag & drop.
+
+**Link to work:** No Link
+
+
+### Day 11: March 27, 2020.
+
+**Today's Progress**: I learned about Intersection Observer to detect the elements when they are in the viewport. 
+
+**Thoughts:** Intersection Observer is an interesting thing.
+
+**Link to work:** No link
+
