@@ -98,3 +98,13 @@
 
 **Link to work:** No link
 
+
+### Day 12: March 28, 2020.
+
+**Today's Progress**: I worked with templating engines to create dynamic html pages. I use pug and ejs. Pug's syntax is too wierd, so I'll use ejs from now. 
+
+**Thoughts:** Working with templating engines is too easy.
+
+**Link to work:** [Express Server](https://github.com/shahmirfaisal/express-server)
+
+
