@@ -108,3 +108,12 @@
 **Link to work:** [Express Server](https://github.com/shahmirfaisal/express-server)
 
 
+### Day 13: March 29, 2020.
+
+**Today's Progress**: I learned about the MVC Pattern and I structure my code by using MVC Pattern. 
+
+**Thoughts:** MVC is a Pattern that we should keep in mind while creating large applications.
+
+**Link to work:** [Express Server](https://github.com/shahmirfaisal/express-server)
+
+
