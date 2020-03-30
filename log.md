@@ -117,3 +117,12 @@
 **Link to work:** [Express Server](https://github.com/shahmirfaisal/express-server)
 
 
+### Day 14: March 30, 2020.
+
+**Today's Progress**: I worked on my existing node app and I learn a little bit about query params. 
+
+**Thoughts:** I'm learning node.js at a greater pace and It's seems easy to me.
+
+**Link to work:** [Express Server](https://github.com/shahmirfaisal/express-server)
+
+
