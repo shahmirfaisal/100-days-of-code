@@ -126,3 +126,12 @@
 **Link to work:** [Express Server](https://github.com/shahmirfaisal/express-server)
 
 
+### Day 15: March 31, 2020.
+
+**Today's Progress**: I worked on my existing node app which is an ecommerce app and add editing and deleting products functionality. 
+
+**Thoughts:** I'm learning node.js at a greater pace and It's seems easy to me.
+
+**Link to work:** [Express Server](https://github.com/shahmirfaisal/express-server)
+
+
