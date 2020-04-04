@@ -153,3 +153,12 @@
 **Link to work:** [Express Server](https://github.com/shahmirfaisal/express-server)
 
 
+### Day 18: April 4, 2020.
+
+**Today's Progress**: I build my first app with node, express and mongodb. It's a todo-list app. 
+
+**Thoughts:** This the first time, I created a node app on my own.
+
+**Link to work:** [Todo App](https://github.com/shahmirfaisal/node-todo-list)
+
+
