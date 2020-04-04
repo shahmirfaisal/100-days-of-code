@@ -137,10 +137,19 @@
 
 ### Day 16: April 1, 2020.
 
-**Today's Progress**:Today, I learned about styled-components in react.js. 
+**Today's Progress**: Today, I learned about styled-components in react.js. 
 
 **Thoughts:** I always used css modules in react but today i thought i should take a look into styled-components and i found it amazing.
 
 **Link to work:** No Link
+
+
+### Day 17: April 2, 2020.
+
+**Today's Progress**: I added the cart functionality in my ecommerce app. 
+
+**Thoughts:** I'm using local file system for storing data because i haven't learned database stuff yet.
+
+**Link to work:** [Express Server](https://github.com/shahmirfaisal/express-server)
 
 
