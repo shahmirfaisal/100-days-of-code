@@ -162,3 +162,12 @@
 **Link to work:** [Todo App](https://github.com/shahmirfaisal/node-todo-list)
 
 
+### Day 19: April 5, 2020.
+
+**Today's Progress**: I learned about sessions and cookies to store data. 
+
+**Thoughts:** Sessions and cookies are mostly used for authentication purpose.
+
+**Link to work:** [Express Server](https://github.com/shahmirfaisal/express-server)
+
+
