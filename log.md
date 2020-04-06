@@ -171,3 +171,12 @@
 **Link to work:** [Express Server](https://github.com/shahmirfaisal/express-server)
 
 
+### Day 20: April 6, 2020.
+
+**Today's Progress**: I added authentication in my app and learned about csrf attacks how to protect it. 
+
+**Thoughts:** CSRF attack is very dangerous that's why we have to protect it.
+
+**Link to work:** [No Link]()
+
+
