@@ -180,3 +180,12 @@
 **Link to work:** [No Link]()
 
 
+### Day 21: April 7, 2020.
+
+**Today's Progress**: I learned about form validation in node.js and i use express-validator package for that. 
+
+**Thoughts:** Form validation is used to enhance user experience.
+
+**Link to work:** [No Link]()
+
+
