@@ -189,3 +189,12 @@
 **Link to work:** [No Link]()
 
 
+### Day 22: April 8, 2020.
+
+**Today's Progress**: I started creating a bookmark app with node. I created the UI and added authentication thus far. 
+
+**Thoughts:** I'm working on projects to strengthen my nodejs knowledge.
+
+**Link to work:** [Bookmark App](https://github.com/shahmirfaisal/node-bookmark-app)
+
+
