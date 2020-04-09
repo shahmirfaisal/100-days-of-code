@@ -198,3 +198,12 @@
 **Link to work:** [Bookmark App](https://github.com/shahmirfaisal/node-bookmark-app)
 
 
+### Day 23: April 9, 2020.
+
+**Today's Progress**: I completed the bookmark app. I also added authentication in that app. 
+
+**Thoughts:** I'm working on projects to strengthen my nodejs knowledge.
+
+**Link to work:** [Bookmark App](https://github.com/shahmirfaisal/node-bookmark-app)
+
+
