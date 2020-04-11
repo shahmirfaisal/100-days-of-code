@@ -216,3 +216,12 @@
 **Link to work:** [No link]()
 
 
+### Day 25: April 11, 2020.
+
+**Today's Progress**: I continue learning about file upload. 
+
+**Thoughts:** File upload is something we have to add in bigger apps.
+
+**Link to work:** [No link]()
+
+
