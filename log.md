@@ -207,3 +207,12 @@
 **Link to work:** [Bookmark App](https://github.com/shahmirfaisal/node-bookmark-app)
 
 
+### Day 24: April 10, 2020.
+
+**Today's Progress**: I learned about error handling in express and i also learned a little bit about file upload. 
+
+**Thoughts:** We have to handle errors to give a better user experience.
+
+**Link to work:** [No link]()
+
+
