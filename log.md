@@ -225,3 +225,12 @@
 **Link to work:** [No link]()
 
 
+### Day 26: April 12, 2020.
+
+**Today's Progress**: I learnt to build pagination in nodejs and I also learnt a little bit abount async js requests. 
+
+**Thoughts:** Pagination is an interesting topic it is useful to build for blogs.
+
+**Link to work:** [No link]()
+
+
