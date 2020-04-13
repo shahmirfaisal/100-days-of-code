@@ -234,3 +234,12 @@
 **Link to work:** [No link]()
 
 
+### Day 27: April 13, 2020.
+
+**Today's Progress**: I learnt how to send async requests in nodejs and how to return json data instead of sending html pages. 
+
+**Thoughts:** Working with rest api's is quite interesting.
+
+**Link to work:** [No link]()
+
+
