@@ -243,3 +243,12 @@
 **Link to work:** [No link]()
 
 
+### Day 28: April 14, 2020.
+
+**Today's Progress**: I learnt about rest apis and i'm also starting building a twitter-clone using node, express and mongodb. I just                         created the folder structure thus far. 
+
+**Thoughts:** Working with rest api's is quite interesting.
+
+**Link to work:** [No link](https://github.com/shahmirfaisal/twitter-clone)
+
+
