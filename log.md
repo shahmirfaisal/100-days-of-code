@@ -249,6 +249,15 @@
 
 **Thoughts:** Working with rest api's is quite interesting.
 
-**Link to work:** [No link](https://github.com/shahmirfaisal/twitter-clone)
+**Link to work:** [Twitter Clone](https://github.com/shahmirfaisal/twitter-clone)
+
+
+### Day 29: April 15, 2020.
+
+**Today's Progress**: I added authentication in my twitter-clone and created the navigation bar. 
+
+**Thoughts:** I'm working on project to become a better developer.
+
+**Link to work:** [Twitter Clone](https://github.com/shahmirfaisal/twitter-clone)
 
 
