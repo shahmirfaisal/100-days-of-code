@@ -261,3 +261,13 @@
 **Link to work:** [Twitter Clone](https://github.com/shahmirfaisal/twitter-clone)
 
 
+
+### Day 30: April 16, 2020.
+
+**Today's Progress**: I added tweet logic in my app and also added the ui of tweet and write-tweet. 
+
+**Thoughts:** I'm working on project to become a better developer.
+
+**Link to work:** [Twitter Clone](https://github.com/shahmirfaisal/twitter-clone)
+
+
