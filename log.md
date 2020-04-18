@@ -271,3 +271,21 @@
 **Link to work:** [Twitter Clone](https://github.com/shahmirfaisal/twitter-clone)
 
 
+### Day 31: April 17, 2020.
+
+**Today's Progress**: I added like system in my twitter-clone app. 
+
+**Thoughts:** I didn't work too much today because I was busy with my relatives.
+
+**Link to work:** [Twitter Clone](https://github.com/shahmirfaisal/twitter-clone)
+
+
+### Day 32: April 18, 2020.
+
+**Today's Progress**: I added profile section and comments functionality in my twitter-clone app. 
+
+**Thoughts:** I'm working on project to become a better developer.
+
+**Link to work:** [Twitter Clone](https://github.com/shahmirfaisal/twitter-clone)
+
+
