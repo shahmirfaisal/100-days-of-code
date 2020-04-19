@@ -289,3 +289,11 @@
 **Link to work:** [Twitter Clone](https://github.com/shahmirfaisal/twitter-clone)
 
 
+
+### Day 33: April 19, 2020.
+
+**Today's Progress**: I added edit-profile feature in twitter-clone and came accross some bugs that i will fix tommorrow. 
+
+**Thoughts:** I'm working on project to become a better developer.
+
+**Link to work:** [Twitter Clone](https://github.com/shahmirfaisal/twitter-clone)
